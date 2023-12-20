@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ice.mk
+    $(LOCAL_DIR)/evolution_ice.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ice-user \
-    aosp_ice-userdebug \
-    aosp_ice-eng
+    evolution_ice-user \
+    evolution_ice-userdebug \
+    evolution_ice-eng
